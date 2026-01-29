@@ -1,0 +1,15 @@
+# Environment files
+.env
+
+# Logs
+*.log
+
+# Backup files
+*.dump
+*.sql
+
+# OS files
+.DS_Store
+
+# Temp files
+*.tmp
